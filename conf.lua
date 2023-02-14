@@ -8,7 +8,7 @@ c.features = {}
 c.advanced = {}
 
 -- Paths
-c.paths.yabai                         = '/usr/local/bin/yabai'
+c.paths.yabai = '/opt/homebrew/bin/yabai'
 
 -- Appearance
 c.appearance.color                    = { white = 0.90 }    -- Indicator background color, e.g., {red = 0.5, blue = 0 }
