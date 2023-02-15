@@ -15,7 +15,7 @@ c.appearance.color                    = { white = 0.90 }    -- Indicator backgro
 c.appearance.alpha                    = 1                   -- Opacity of active indicators
 c.appearance.dimmer                   = 2.5                 -- Higher numbers increase contrast b/n focused & unfocused state
 c.appearance.iconDimmer               = 1.1                 -- Higher numbers dim inactive icons *less* than the non-icon indicators
-c.appearance.showIcons                = true                -- Window indicator style ('lozenge'-shaped when false)
+c.appearance.showIcons                = false                -- Window indicator style ('lozenge'-shaped when false)
 c.appearance.size                     = 32                  -- Size of window indicators (height when icons off)
 c.appearance.radius                   = 3                   -- Indicator roundness. Higher numbers → *less* roundness… I'm sorry
 c.appearance.iconPadding              = 4                   -- Space between icon & indicator edge. Higher numbers → smaller, more inset icons
